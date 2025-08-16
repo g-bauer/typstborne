@@ -1,0 +1,47 @@
+{
+    "name": "BATTLE BOX",
+    "tier": 2,
+    "type": "solo",
+    "description": "A cube-shaped construct with a different rune on each of their six sides.",
+    "motives_and_tactics": "Change tactics, trample foes, wait in disguise",
+    "statistics": {
+        "difficulty": 15,
+        "major": 10,
+        "severe": 20,
+        "hp": 8,
+        "stress": 6,
+        "atk": 2,
+        "weapon": "Slam",
+        "range": "Melee",
+        "damage": "2d6+3",
+        "damage_type": "phy"
+    },
+    "experience": [
+        {
+            "name": "Camouflage",
+            "value": 2
+        }
+    ],
+    "features": [
+        {
+            "name": "Relentless (2)",
+            "type": "Passive",
+            "description": "The Box can be spotlighted up to two times per turn. Spend Fear as usual to spotlight them."
+        },
+        {
+            "name": "Randomized Tactics",
+            "type": "Action",
+            "description": "Mark a Stress and roll a d6. The Box uses the corresponding move:\n1. Mana Beam: The Box fires a searing beam. Make an attack against a target within Far range. On a success, deal 2d10+2 magic damage.\n2. Fire Jets: The Box shoots into the air, spinning and releasing jets of flame. Make an attack against all targets within Close range. Targets the Box succeeds against take 2d8 physical damage.\n3. Trample: The Box rockets around erratically. Make an attack against all PCs within Close range. Targets the Box succeeds against take 1d6+5 physical damage and are Vulnerable until their next roll with Hope.\n4. Shocking Gas: The Box sprays out a silver gas sparking with lightning. All targets within Close range must succeed on a Finesse Reaction Roll or mark 3 Stress.\n5. Stunning Clap: The Box leaps and their sides clap, creating a concussive boom. All targets within Very Close range must succeed on a Strength Reaction Roll or become Vulnerable until the cube is defeated.\n6. Psonic Whine: The Box releases a cluster of mechanical bees whose buzz rattles mortal minds. All targets within Close range must succeed on a Presence Reaction Roll or take 2d4+9 direct magic damage."
+        },
+        {
+            "name": "Overcharge",
+            "type": "Reaction",
+            "description": "Before rolling damage for the Box\u2019s attack, you can mark a Stress to add a d6 to the damage roll. Additionally, you gain a Fear."
+        },
+        {
+            "name": "Death Quake",
+            "type": "Reaction",
+            "description": "When the Box marks their last HP, the magic powering them ruptures in an explosion of force. All targets within Close range must succeed on an Instinct Reaction Roll or take 2d8+1 magic damage."
+        }
+    ]
+}
