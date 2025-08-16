@@ -1,6 +1,6 @@
 # Typstborne
 
-A simple template for creating documents for [Daggerheart](https://www.daggerheart.com).
+A simple [typst](https://typst.app) template for creating documents for [Daggerheart](https://www.daggerheart.com).
 Check out the `test_template.pdf` to see what's currently possible.
 
 ## Features
