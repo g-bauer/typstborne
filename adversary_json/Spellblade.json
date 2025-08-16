@@ -1,1 +1,45 @@
-{"name": "SPELLBLADE", "tier": 1, "type": "leader", "description": "A mercenary combining swordplay and magic to deadly effect.", "motives_and_tactics": "Blast, command, endure", "statistics": {"difficulty": 14, "major": 8, "severe": 14, "hp": 6, "stress": 3, "atk": 3, "weapon": "Empowered Longsword", "range": "Melee"}, "experience": [{"name": "Magical Knowledge", "value": 2}], "features": [{"name": "Arcane Steel", "type": "Passive", "description": "Damage dealt by the Spellblade\u2019s standard attack is considered both physical and magic."}, {"name": "Suppressing Blast", "type": "Action", "description": "Mark a Stress and target a group within Far range. All targets must succeed on an Agility Reaction Roll or take 1d8+2 magic damage. You gain a Fear for each target who marked HP from this attack."}, {"name": "Move as Unit", "type": "Action", "description": "Spend 2 Fear to spotlight up to five allies within Far range."}, {"name": "Momentum", "type": "Reaction", "description": "When the Spellblade makes a successful attack against a PC, you gain a Fear."}]}
+{
+    "name": "SPELLBLADE",
+    "tier": 1,
+    "type": "leader",
+    "description": "A mercenary combining swordplay and magic to deadly effect.",
+    "motives_and_tactics": "Blast, command, endure",
+    "statistics": {
+        "difficulty": 14,
+        "major": 8,
+        "severe": 14,
+        "hp": 6,
+        "stress": 3,
+        "atk": 3,
+        "weapon": "Empowered Longsword",
+        "range": "Melee"
+    },
+    "experience": [
+        {
+            "name": "Magical Knowledge",
+            "value": 2
+        }
+    ],
+    "features": [
+        {
+            "name": "Arcane Steel",
+            "type": "Passive",
+            "description": "Damage dealt by the Spellblade\u2019s standard attack is considered both physical and magic."
+        },
+        {
+            "name": "Suppressing Blast",
+            "type": "Action",
+            "description": "Mark a Stress and target a group within Far range. All targets must succeed on an Agility Reaction Roll or take 1d8+2 magic damage. You gain a Fear for each target who marked HP from this attack."
+        },
+        {
+            "name": "Move as Unit",
+            "type": "Action",
+            "description": "Spend 2 Fear to spotlight up to five allies within Far range."
+        },
+        {
+            "name": "Momentum",
+            "type": "Reaction",
+            "description": "When the Spellblade makes a successful attack against a PC, you gain a Fear."
+        }
+    ]
+}

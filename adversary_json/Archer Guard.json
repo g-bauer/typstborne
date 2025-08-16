@@ -1,1 +1,32 @@
-{"name": "ARCHER GUARD", "tier": 1, "type": "ranged", "description": "A tall guard bearing a longbow and quiver with arrows fletched in the settlement\u2019s colors.", "motives_and_tactics": "Arrest, close gates, make it through the day, pin down", "statistics": {"difficulty": 10, "major": 4, "severe": 8, "hp": 3, "stress": 2, "atk": 1, "weapon": "Longbow", "range": "Far", "damage": "1d8+3", "damage_type": "phy"}, "experience": [{"name": "Local Knowledge", "value": 3}], "features": [{"name": "Hobbling Shot", "type": "Action", "description": "Make an attack against a target within Far range. On a success, mark a Stress to deal 1d12+3 physical damage. If the target marks HP from this attack, they have disadvantage on Agility Rolls until they clear at least 1 HP."}]}
+{
+    "name": "ARCHER GUARD",
+    "tier": 1,
+    "type": "ranged",
+    "description": "A tall guard bearing a longbow and quiver with arrows fletched in the settlement\u2019s colors.",
+    "motives_and_tactics": "Arrest, close gates, make it through the day, pin down",
+    "statistics": {
+        "difficulty": 10,
+        "major": 4,
+        "severe": 8,
+        "hp": 3,
+        "stress": 2,
+        "atk": 1,
+        "weapon": "Longbow",
+        "range": "Far",
+        "damage": "1d8+3",
+        "damage_type": "phy"
+    },
+    "experience": [
+        {
+            "name": "Local Knowledge",
+            "value": 3
+        }
+    ],
+    "features": [
+        {
+            "name": "Hobbling Shot",
+            "type": "Action",
+            "description": "Make an attack against a target within Far range. On a success, mark a Stress to deal 1d12+3 physical damage. If the target marks HP from this attack, they have disadvantage on Agility Rolls until they clear at least 1 HP."
+        }
+    ]
+}

@@ -1,1 +1,42 @@
-{"name": "DEMON OF WRATH", "tier": 3, "type": "bruiser", "description": "A hulking demon with boulder-sized fists, driven by endless rage.", "motives_and_tactics": "Fuel anger, impress rivals, wreak havoc", "statistics": {"difficulty": 17, "major": 22, "severe": 40, "hp": 7, "stress": 5, "atk": 3, "weapon": "Fists", "range": "Very Close", "damage": "3d8+1", "damage_type": "magic"}, "experience": [{"name": "Intimidation", "value": 2}], "features": [{"name": "Anger Unrelenting", "type": "Passive", "description": "The Demon\u2019s attacks deal direct damage."}, {"name": "Battle Lust", "type": "Action", "description": "Spend a Fear to boil the blood of all PCs within Far range. They use a d20 as their Fear Die until the end of the scene."}, {"name": "Retaliation", "type": "Reaction", "description": "When the Demon takes damage from an attack within Close range, you can mark a Stress to make a standard attack against the attacker."}]}
+{
+    "name": "DEMON OF WRATH",
+    "tier": 3,
+    "type": "bruiser",
+    "description": "A hulking demon with boulder-sized fists, driven by endless rage.",
+    "motives_and_tactics": "Fuel anger, impress rivals, wreak havoc",
+    "statistics": {
+        "difficulty": 17,
+        "major": 22,
+        "severe": 40,
+        "hp": 7,
+        "stress": 5,
+        "atk": 3,
+        "weapon": "Fists",
+        "range": "Very Close",
+        "damage": "3d8+1",
+        "damage_type": "magic"
+    },
+    "experience": [
+        {
+            "name": "Intimidation",
+            "value": 2
+        }
+    ],
+    "features": [
+        {
+            "name": "Anger Unrelenting",
+            "type": "Passive",
+            "description": "The Demon\u2019s attacks deal direct damage."
+        },
+        {
+            "name": "Battle Lust",
+            "type": "Action",
+            "description": "Spend a Fear to boil the blood of all PCs within Far range. They use a d20 as their Fear Die until the end of the scene."
+        },
+        {
+            "name": "Retaliation",
+            "type": "Reaction",
+            "description": "When the Demon takes damage from an attack within Close range, you can mark a Stress to make a standard attack against the attacker."
+        }
+    ]
+}

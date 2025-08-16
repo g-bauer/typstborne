@@ -1,1 +1,42 @@
-{"name": "FAILED EXPERIMENT", "tier": 2, "type": "standard", "description": "A magical necromantic experiment gone wrong, leaving them warped and ungainly.", "motives_and_tactics": "Devour, hunt, track", "statistics": {"difficulty": 13, "major": 12, "severe": 23, "hp": 3, "stress": 3, "atk": 1, "weapon": "Bite and Claw", "range": "Melee", "damage": "2d6+5", "damage_type": "phy"}, "experience": [{"name": "Copycat", "value": 3}], "features": [{"name": "Warped Fortitude", "type": "Passive", "description": "The Experiment is resistant to physical damage."}, {"name": "Overwhelm", "type": "Passive", "description": "When a target the Experiment attacks has other adversaries within Very Close range, the Experiment deals double damage."}, {"name": "Lurching Lunge", "type": "Action", "description": "Mark a Stress to spotlight the Experiment as an additional GM move instead of spending Fear."}]}
+{
+    "name": "FAILED EXPERIMENT",
+    "tier": 2,
+    "type": "standard",
+    "description": "A magical necromantic experiment gone wrong, leaving them warped and ungainly.",
+    "motives_and_tactics": "Devour, hunt, track",
+    "statistics": {
+        "difficulty": 13,
+        "major": 12,
+        "severe": 23,
+        "hp": 3,
+        "stress": 3,
+        "atk": 1,
+        "weapon": "Bite and Claw",
+        "range": "Melee",
+        "damage": "2d6+5",
+        "damage_type": "phy"
+    },
+    "experience": [
+        {
+            "name": "Copycat",
+            "value": 3
+        }
+    ],
+    "features": [
+        {
+            "name": "Warped Fortitude",
+            "type": "Passive",
+            "description": "The Experiment is resistant to physical damage."
+        },
+        {
+            "name": "Overwhelm",
+            "type": "Passive",
+            "description": "When a target the Experiment attacks has other adversaries within Very Close range, the Experiment deals double damage."
+        },
+        {
+            "name": "Lurching Lunge",
+            "type": "Action",
+            "description": "Mark a Stress to spotlight the Experiment as an additional GM move instead of spending Fear."
+        }
+    ]
+}

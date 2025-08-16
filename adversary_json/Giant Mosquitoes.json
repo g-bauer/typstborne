@@ -1,1 +1,42 @@
-{"name": "GIANT MOSQUITOES", "tier": 1, "type": "horde (5/hp)", "description": "Dozens of fist-sized mosquitoes, flying together for protection.", "motives_and_tactics": "Fly away, harass, steal blood", "statistics": {"difficulty": 10, "major": 5, "severe": 9, "hp": 6, "stress": 3, "atk": -2, "weapon": "Proboscis", "range": "Melee", "damage": "1d8+3", "damage_type": "phy"}, "experience": [{"name": "Camouflage", "value": 2}], "features": [{"name": "Horde (1d4+1)", "type": "Passive", "description": "When the Mosquitoes have marked half or more of their HP, their standard attack deals 1d4+1 physical damage instead."}, {"name": "Flying", "type": "Passive", "description": "While flying, the Mosquitoes have a +2 bonus to their Difficulty."}, {"name": "Bloodseeker", "type": "Reaction", "description": "When the Mosquitoes\u2019 attack causes a target to mark HP, you can mark a Stress to force the target to mark an additional HP."}]}
+{
+    "name": "GIANT MOSQUITOES",
+    "tier": 1,
+    "type": "horde (5/hp)",
+    "description": "Dozens of fist-sized mosquitoes, flying together for protection.",
+    "motives_and_tactics": "Fly away, harass, steal blood",
+    "statistics": {
+        "difficulty": 10,
+        "major": 5,
+        "severe": 9,
+        "hp": 6,
+        "stress": 3,
+        "atk": -2,
+        "weapon": "Proboscis",
+        "range": "Melee",
+        "damage": "1d8+3",
+        "damage_type": "phy"
+    },
+    "experience": [
+        {
+            "name": "Camouflage",
+            "value": 2
+        }
+    ],
+    "features": [
+        {
+            "name": "Horde (1d4+1)",
+            "type": "Passive",
+            "description": "When the Mosquitoes have marked half or more of their HP, their standard attack deals 1d4+1 physical damage instead."
+        },
+        {
+            "name": "Flying",
+            "type": "Passive",
+            "description": "While flying, the Mosquitoes have a +2 bonus to their Difficulty."
+        },
+        {
+            "name": "Bloodseeker",
+            "type": "Reaction",
+            "description": "When the Mosquitoes\u2019 attack causes a target to mark HP, you can mark a Stress to force the target to mark an additional HP."
+        }
+    ]
+}

@@ -1,1 +1,42 @@
-{"name": "SYLVAN SOLDIER", "tier": 1, "type": "standard", "description": "A faerie warrior adorned in armor made of leaves and bark.", "motives_and_tactics": "Ambush, hide, overwhelm, protect, trail", "statistics": {"difficulty": 11, "major": 6, "severe": 11, "hp": 4, "stress": 2, "atk": 0, "weapon": "Scythe", "range": "Melee", "damage": "1d8+1", "damage_type": "phy"}, "experience": [{"name": "Tracker", "value": 2}], "features": [{"name": "Pack Tactics", "type": "Passive", "description": "If the Soldier makes a standard attack and another Sylvan Soldier is within Melee range of the target, deal 1d8+5 physical damage instead of their standard damage."}, {"name": "Forest Control", "type": "Action", "description": "Spend a Fear to pull down a tree within Close range. A creature hit by the tree must succeed on an Agility Reaction Roll (15) or take 1d10 physical damage."}, {"name": "Blend In", "type": "Reaction", "description": "When the Soldier makes a successful attack, you can mark a Stress to become Hidden until the Soldier\u2019s next attack or a PC succeeds on an Instinct Roll (14) to find them."}]}
+{
+    "name": "SYLVAN SOLDIER",
+    "tier": 1,
+    "type": "standard",
+    "description": "A faerie warrior adorned in armor made of leaves and bark.",
+    "motives_and_tactics": "Ambush, hide, overwhelm, protect, trail",
+    "statistics": {
+        "difficulty": 11,
+        "major": 6,
+        "severe": 11,
+        "hp": 4,
+        "stress": 2,
+        "atk": 0,
+        "weapon": "Scythe",
+        "range": "Melee",
+        "damage": "1d8+1",
+        "damage_type": "phy"
+    },
+    "experience": [
+        {
+            "name": "Tracker",
+            "value": 2
+        }
+    ],
+    "features": [
+        {
+            "name": "Pack Tactics",
+            "type": "Passive",
+            "description": "If the Soldier makes a standard attack and another Sylvan Soldier is within Melee range of the target, deal 1d8+5 physical damage instead of their standard damage."
+        },
+        {
+            "name": "Forest Control",
+            "type": "Action",
+            "description": "Spend a Fear to pull down a tree within Close range. A creature hit by the tree must succeed on an Agility Reaction Roll (15) or take 1d10 physical damage."
+        },
+        {
+            "name": "Blend In",
+            "type": "Reaction",
+            "description": "When the Soldier makes a successful attack, you can mark a Stress to become Hidden until the Soldier\u2019s next attack or a PC succeeds on an Instinct Roll (14) to find them."
+        }
+    ]
+}

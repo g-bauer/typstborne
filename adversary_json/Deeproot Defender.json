@@ -1,1 +1,37 @@
-{"name": "DEEPROOT DEFENDER", "tier": 1, "type": "bruiser", "description": "A burly vegetable-person with grasping vines.", "motives_and_tactics": "Ambush, grab, protect, pummel", "statistics": {"difficulty": 10, "major": 8, "severe": 14, "hp": 7, "stress": 3, "atk": 2, "weapon": "Vines", "range": "Close", "damage": "1d8+3", "damage_type": "phy"}, "experience": [{"name": "Huge", "value": 3}], "features": [{"name": "Ground Slam", "type": "Action", "description": "Slam the ground, knocking all targets within Very Close range back to Far range. Each target knocked back by this must mark a Stress."}, {"name": "Grab and Drag", "type": "Action", "description": "Make an attack against a target within Close range. On a success, spend a Fear to pull them into Melee range, deal 1d6+2 physical damage, and Restrain them until the Defender takes Severe damage."}]}
+{
+    "name": "DEEPROOT DEFENDER",
+    "tier": 1,
+    "type": "bruiser",
+    "description": "A burly vegetable-person with grasping vines.",
+    "motives_and_tactics": "Ambush, grab, protect, pummel",
+    "statistics": {
+        "difficulty": 10,
+        "major": 8,
+        "severe": 14,
+        "hp": 7,
+        "stress": 3,
+        "atk": 2,
+        "weapon": "Vines",
+        "range": "Close",
+        "damage": "1d8+3",
+        "damage_type": "phy"
+    },
+    "experience": [
+        {
+            "name": "Huge",
+            "value": 3
+        }
+    ],
+    "features": [
+        {
+            "name": "Ground Slam",
+            "type": "Action",
+            "description": "Slam the ground, knocking all targets within Very Close range back to Far range. Each target knocked back by this must mark a Stress."
+        },
+        {
+            "name": "Grab and Drag",
+            "type": "Action",
+            "description": "Make an attack against a target within Close range. On a success, spend a Fear to pull them into Melee range, deal 1d6+2 physical damage, and Restrain them until the Defender takes Severe damage."
+        }
+    ]
+}

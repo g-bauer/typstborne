@@ -1,1 +1,37 @@
-{"name": "VAMPIRE", "tier": 3, "type": "standard", "description": "An intelligent undead with blood-stained lips and a predator\u2019s smile.", "motives_and_tactics": "Bite, charm, deceive, feed, intimidate", "statistics": {"difficulty": 16, "major": 18, "severe": 35, "hp": 5, "stress": 4, "atk": 3, "weapon": "Rapier", "range": "Melee", "damage": "3d8", "damage_type": "phy"}, "experience": [{"name": "Nocturnal Hunter", "value": 3}], "features": [{"name": "Draining Bite", "type": "Action", "description": "Make an attack against a target within Melee range. On a success, deal 4d physical damage. A target who marks HP from this attack loses a Hope and must mark a Stress. The Vampire then clears a HP."}, {"name": "Mistform", "type": "Reaction", "description": "When the Vampire takes physical damage, you can spend a Fear to take half damage."}]}
+{
+    "name": "VAMPIRE",
+    "tier": 3,
+    "type": "standard",
+    "description": "An intelligent undead with blood-stained lips and a predator\u2019s smile.",
+    "motives_and_tactics": "Bite, charm, deceive, feed, intimidate",
+    "statistics": {
+        "difficulty": 16,
+        "major": 18,
+        "severe": 35,
+        "hp": 5,
+        "stress": 4,
+        "atk": 3,
+        "weapon": "Rapier",
+        "range": "Melee",
+        "damage": "3d8",
+        "damage_type": "phy"
+    },
+    "experience": [
+        {
+            "name": "Nocturnal Hunter",
+            "value": 3
+        }
+    ],
+    "features": [
+        {
+            "name": "Draining Bite",
+            "type": "Action",
+            "description": "Make an attack against a target within Melee range. On a success, deal 4d physical damage. A target who marks HP from this attack loses a Hope and must mark a Stress. The Vampire then clears a HP."
+        },
+        {
+            "name": "Mistform",
+            "type": "Reaction",
+            "description": "When the Vampire takes physical damage, you can spend a Fear to take half damage."
+        }
+    ]
+}

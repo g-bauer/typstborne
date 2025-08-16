@@ -1,1 +1,42 @@
-{"name": "CHAOS SKULL", "tier": 2, "type": "ranged", "description": "A floating humanoid skull animated by scintillating magic.", "motives_and_tactics": "Cackle, consume magic, serve creator", "statistics": {"difficulty": 15, "major": 8, "severe": 16, "hp": 5, "stress": 4, "atk": 2, "weapon": "Energy Blast", "range": "Close", "damage": "2d8+3", "damage_type": "magic"}, "experience": [], "features": [{"name": "Levitation", "type": "Passive", "description": "The Skull levitates several feet off the ground and can\u2019t be Restrained."}, {"name": "Wards", "type": "Passive", "description": "The Skull is resistant to magic damage."}, {"name": "Magic Burst", "type": "Action", "description": "Mark a Stress to make an attack against all targets within Close range. Targets the Skull succeeds against take 2d6+4 magic damage."}, {"name": "Siphon Magic", "type": "Action", "description": "Spend a Fear to make an attack against a PC with a Spellcast trait within Very Close range. On a success, the target marks 1d4 Stress and the Skull clears that many Stress. Additionally, on a success, the Skull can immediately be spotlighted again."}]}
+{
+    "name": "CHAOS SKULL",
+    "tier": 2,
+    "type": "ranged",
+    "description": "A floating humanoid skull animated by scintillating magic.",
+    "motives_and_tactics": "Cackle, consume magic, serve creator",
+    "statistics": {
+        "difficulty": 15,
+        "major": 8,
+        "severe": 16,
+        "hp": 5,
+        "stress": 4,
+        "atk": 2,
+        "weapon": "Energy Blast",
+        "range": "Close",
+        "damage": "2d8+3",
+        "damage_type": "magic"
+    },
+    "experience": [],
+    "features": [
+        {
+            "name": "Levitation",
+            "type": "Passive",
+            "description": "The Skull levitates several feet off the ground and can\u2019t be Restrained."
+        },
+        {
+            "name": "Wards",
+            "type": "Passive",
+            "description": "The Skull is resistant to magic damage."
+        },
+        {
+            "name": "Magic Burst",
+            "type": "Action",
+            "description": "Mark a Stress to make an attack against all targets within Close range. Targets the Skull succeeds against take 2d6+4 magic damage."
+        },
+        {
+            "name": "Siphon Magic",
+            "type": "Action",
+            "description": "Spend a Fear to make an attack against a PC with a Spellcast trait within Very Close range. On a success, the target marks 1d4 Stress and the Skull clears that many Stress. Additionally, on a success, the Skull can immediately be spotlighted again."
+        }
+    ]
+}

@@ -1,1 +1,32 @@
-{"name": "ELITE SOLDIER", "tier": 2, "type": "standard", "description": "An armored squire or experienced commoner looking to advance.", "motives_and_tactics": "Gain glory, keep order, make alliances", "statistics": {"difficulty": 15, "major": 9, "severe": 18, "hp": 4, "stress": 3, "atk": 1, "weapon": "Spear", "range": "Very Close", "damage": "2d8+4", "damage_type": "phy"}, "experience": [], "features": [{"name": "Reinforce", "type": "Action", "description": "Mark a Stress to move into Melee range of an ally and make a standard attack against a target within Very Close range. On a success, deal 2d10+2 physical damage and the ally can clear a Stress."}, {"name": "Vassal\u2019s Loyalty", "type": "Reaction", "description": "When the Soldier is within Very Close range of a knight or other noble who would take damage, you can mark a Stress to move into Melee range of them and take the damage instead."}]}
+{
+    "name": "ELITE SOLDIER",
+    "tier": 2,
+    "type": "standard",
+    "description": "An armored squire or experienced commoner looking to advance.",
+    "motives_and_tactics": "Gain glory, keep order, make alliances",
+    "statistics": {
+        "difficulty": 15,
+        "major": 9,
+        "severe": 18,
+        "hp": 4,
+        "stress": 3,
+        "atk": 1,
+        "weapon": "Spear",
+        "range": "Very Close",
+        "damage": "2d8+4",
+        "damage_type": "phy"
+    },
+    "experience": [],
+    "features": [
+        {
+            "name": "Reinforce",
+            "type": "Action",
+            "description": "Mark a Stress to move into Melee range of an ally and make a standard attack against a target within Very Close range. On a success, deal 2d10+2 physical damage and the ally can clear a Stress."
+        },
+        {
+            "name": "Vassal\u2019s Loyalty",
+            "type": "Reaction",
+            "description": "When the Soldier is within Very Close range of a knight or other noble who would take damage, you can mark a Stress to move into Melee range of them and take the damage instead."
+        }
+    ]
+}

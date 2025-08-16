@@ -1,1 +1,42 @@
-{"name": "GIANT BEASTMASTER", "tier": 2, "type": "leader", "description": "A leather-clad warrior bearing a whip and massive bow.", "motives_and_tactics": "Command, make a living, maneuver, pin down, protect companion animals", "statistics": {"difficulty": 16, "major": 12, "severe": 24, "hp": 6, "stress": 5, "atk": 2, "weapon": "Longbow", "range": "Far", "damage": "2d8+4", "damage_type": "phy"}, "experience": [{"name": "Animal Handling", "value": 3}], "features": [{"name": "Two as One", "type": "Passive", "description": "When the Beastmaster is spotlighted, you can also spotlight a Tier 1 animal adversary currently under their control."}, {"name": "Pinning Strike", "type": "Action", "description": "Make a standard attack against a target. On a success, you can mark a Stress to pin them to a nearby surface. The pinned target is Restrained until they break free with a successful Finesse or Strength Roll."}, {"name": "Deadly Companion", "type": "Action", "description": "Twice per scene, summon a Bear, Dire Wolf, or similar Tier 1 animal adversary under the Beastmaster\u2019s control. The adversary appears at Close range and is immediately spotlighted."}]}
+{
+    "name": "GIANT BEASTMASTER",
+    "tier": 2,
+    "type": "leader",
+    "description": "A leather-clad warrior bearing a whip and massive bow.",
+    "motives_and_tactics": "Command, make a living, maneuver, pin down, protect companion animals",
+    "statistics": {
+        "difficulty": 16,
+        "major": 12,
+        "severe": 24,
+        "hp": 6,
+        "stress": 5,
+        "atk": 2,
+        "weapon": "Longbow",
+        "range": "Far",
+        "damage": "2d8+4",
+        "damage_type": "phy"
+    },
+    "experience": [
+        {
+            "name": "Animal Handling",
+            "value": 3
+        }
+    ],
+    "features": [
+        {
+            "name": "Two as One",
+            "type": "Passive",
+            "description": "When the Beastmaster is spotlighted, you can also spotlight a Tier 1 animal adversary currently under their control."
+        },
+        {
+            "name": "Pinning Strike",
+            "type": "Action",
+            "description": "Make a standard attack against a target. On a success, you can mark a Stress to pin them to a nearby surface. The pinned target is Restrained until they break free with a successful Finesse or Strength Roll."
+        },
+        {
+            "name": "Deadly Companion",
+            "type": "Action",
+            "description": "Twice per scene, summon a Bear, Dire Wolf, or similar Tier 1 animal adversary under the Beastmaster\u2019s control. The adversary appears at Close range and is immediately spotlighted."
+        }
+    ]
+}

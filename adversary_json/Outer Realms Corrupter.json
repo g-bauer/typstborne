@@ -1,1 +1,32 @@
-{"name": "OUTER REALMS CORRUPTER", "tier": 4, "type": "support", "description": "A shifting, formless mass seemingly made of chromatic light.", "motives_and_tactics": "Confuse, distract, overwhelm", "statistics": {"difficulty": 19, "major": 27, "severe": 47, "hp": 4, "stress": 3, "atk": 7, "weapon": "Corroding Pseudopod", "range": "Very Close", "damage": "4d8+5", "damage_type": "magic"}, "experience": [], "features": [{"name": "Will-Shattering Touch", "type": "Passive", "description": "When a PC takes damage from the Corrupter, they lose a Hope."}, {"name": "Disgorge Reality Flotsam", "type": "Action", "description": "Mark a Stress to spew partially digested portions of consumed realities at all targets within Close range. Targets must succeed on a Knowledge Reaction Roll or mark 2 Stress."}]}
+{
+    "name": "OUTER REALMS CORRUPTER",
+    "tier": 4,
+    "type": "support",
+    "description": "A shifting, formless mass seemingly made of chromatic light.",
+    "motives_and_tactics": "Confuse, distract, overwhelm",
+    "statistics": {
+        "difficulty": 19,
+        "major": 27,
+        "severe": 47,
+        "hp": 4,
+        "stress": 3,
+        "atk": 7,
+        "weapon": "Corroding Pseudopod",
+        "range": "Very Close",
+        "damage": "4d8+5",
+        "damage_type": "magic"
+    },
+    "experience": [],
+    "features": [
+        {
+            "name": "Will-Shattering Touch",
+            "type": "Passive",
+            "description": "When a PC takes damage from the Corrupter, they lose a Hope."
+        },
+        {
+            "name": "Disgorge Reality Flotsam",
+            "type": "Action",
+            "description": "Mark a Stress to spew partially digested portions of consumed realities at all targets within Close range. Targets must succeed on a Knowledge Reaction Roll or mark 2 Stress."
+        }
+    ]
+}

@@ -1,1 +1,41 @@
-{"name": "JAGGED KNIFE KNEEBREAKER", "tier": 1, "type": "bruiser", "description": "An imposing brawler carrying a large club.", "motives_and_tactics": "Grapple, intimidate, profit, steal", "statistics": {"difficulty": 12, "major": 7, "severe": 14, "hp": 7, "stress": 4, "atk": -3, "weapon": "Club", "range": "Melee", "damage": "1d4+6", "damage_type": "phy"}, "experience": [{"name": "Thief", "value": 2}, {"name": "Unveiled Threats", "value": 3}], "features": [{"name": "I\u2019ve Got \u2018Em", "type": "Passive", "description": "Creatures Restrained by the Kneebreaker take double damage from attacks by other adversaries."}, {"name": "Hold Them Down", "type": "Action", "description": "Make an attack against a target within Melee range. On a success, the target takes no damage but is Restrained and Vulnerable. The target can break free, clearing both conditions, with a successful Strength Roll or is freed automatically if the Kneebreaker takes Major or greater damage."}]}
+{
+    "name": "JAGGED KNIFE KNEEBREAKER",
+    "tier": 1,
+    "type": "bruiser",
+    "description": "An imposing brawler carrying a large club.",
+    "motives_and_tactics": "Grapple, intimidate, profit, steal",
+    "statistics": {
+        "difficulty": 12,
+        "major": 7,
+        "severe": 14,
+        "hp": 7,
+        "stress": 4,
+        "atk": -3,
+        "weapon": "Club",
+        "range": "Melee",
+        "damage": "1d4+6",
+        "damage_type": "phy"
+    },
+    "experience": [
+        {
+            "name": "Thief",
+            "value": 2
+        },
+        {
+            "name": "Unveiled Threats",
+            "value": 3
+        }
+    ],
+    "features": [
+        {
+            "name": "I\u2019ve Got \u2018Em",
+            "type": "Passive",
+            "description": "Creatures Restrained by the Kneebreaker take double damage from attacks by other adversaries."
+        },
+        {
+            "name": "Hold Them Down",
+            "type": "Action",
+            "description": "Make an attack against a target within Melee range. On a success, the target takes no damage but is Restrained and Vulnerable. The target can break free, clearing both conditions, with a successful Strength Roll or is freed automatically if the Kneebreaker takes Major or greater damage."
+        }
+    ]
+}

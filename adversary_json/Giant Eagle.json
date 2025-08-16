@@ -1,1 +1,42 @@
-{"name": "GIANT EAGLE", "tier": 2, "type": "skulk", "description": "A giant bird of prey with blood-stained talons.", "motives_and_tactics": "Hunt prey, stay mobile, strike decisively", "statistics": {"difficulty": 14, "major": 8, "severe": 19, "hp": 4, "stress": 4, "atk": 1, "weapon": "Claws and Beak", "range": "Very Close", "damage": "2d6+3", "damage_type": "phy"}, "experience": [], "features": [{"name": "Flight", "type": "Passive", "description": "While flying, the Eagle gains a +3 bonus to their Difficulty."}, {"name": "Deadly Dive", "type": "Action", "description": "Mark a Stress to attack a target within Far range. On a success, deal 2d10+2 physical damage and knock the target over, making them Vulnerable until they next act."}, {"name": "Take Off", "type": "Action", "description": "Make an attack against a target within Very Close range. On a success, deal 2d4+3 physical damage and the target must succeed on an Agility Reaction Roll or become temporarily Restrained within the Eagle\u2019s massive talons. If the target is Restrained, the Eagle immediately lifts them to the air to Very Far range above the battlefield while holding them."}, {"name": "Deadly Drop", "type": "Action", "description": "While flying, the Eagle can drop a Restrained target they are holding. When dropped, the target is no longer Restrained but starts falling. If their fall isn\u2019t prevented during the PCs\u2019 next action, the target takes 2d20 physical damage when they land."}]}
+{
+    "name": "GIANT EAGLE",
+    "tier": 2,
+    "type": "skulk",
+    "description": "A giant bird of prey with blood-stained talons.",
+    "motives_and_tactics": "Hunt prey, stay mobile, strike decisively",
+    "statistics": {
+        "difficulty": 14,
+        "major": 8,
+        "severe": 19,
+        "hp": 4,
+        "stress": 4,
+        "atk": 1,
+        "weapon": "Claws and Beak",
+        "range": "Very Close",
+        "damage": "2d6+3",
+        "damage_type": "phy"
+    },
+    "experience": [],
+    "features": [
+        {
+            "name": "Flight",
+            "type": "Passive",
+            "description": "While flying, the Eagle gains a +3 bonus to their Difficulty."
+        },
+        {
+            "name": "Deadly Dive",
+            "type": "Action",
+            "description": "Mark a Stress to attack a target within Far range. On a success, deal 2d10+2 physical damage and knock the target over, making them Vulnerable until they next act."
+        },
+        {
+            "name": "Take Off",
+            "type": "Action",
+            "description": "Make an attack against a target within Very Close range. On a success, deal 2d4+3 physical damage and the target must succeed on an Agility Reaction Roll or become temporarily Restrained within the Eagle\u2019s massive talons. If the target is Restrained, the Eagle immediately lifts them to the air to Very Far range above the battlefield while holding them."
+        },
+        {
+            "name": "Deadly Drop",
+            "type": "Action",
+            "description": "While flying, the Eagle can drop a Restrained target they are holding. When dropped, the target is no longer Restrained but starts falling. If their fall isn\u2019t prevented during the PCs\u2019 next action, the target takes 2d20 physical damage when they land."
+        }
+    ]
+}

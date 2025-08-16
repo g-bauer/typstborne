@@ -1,1 +1,37 @@
-{"name": "PIRATE TOUGH", "tier": 1, "type": "bruiser", "description": "A thickly muscled and tattooed pirate with melon-sized fists.", "motives_and_tactics": "Plunder, raid, smash, terrorize", "statistics": {"difficulty": 13, "major": 8, "severe": 15, "hp": 5, "stress": 3, "atk": 1, "weapon": "Massive Fists", "range": "Melee", "damage": "2d6", "damage_type": "phy"}, "experience": [{"name": "Sailor", "value": 2}], "features": [{"name": "Swashbuckler", "type": "Passive", "description": "When the Tough marks 2 or fewer HP from an attack within Melee range, the attacker must mark a Stress."}, {"name": "Clear the Decks", "type": "Action", "description": "Make an attack against a target within Very Close range. On a success, mark a Stress to move into Melee range of the target, dealing 3d4 physical damage and knocking the target back to Close range."}]}
+{
+    "name": "PIRATE TOUGH",
+    "tier": 1,
+    "type": "bruiser",
+    "description": "A thickly muscled and tattooed pirate with melon-sized fists.",
+    "motives_and_tactics": "Plunder, raid, smash, terrorize",
+    "statistics": {
+        "difficulty": 13,
+        "major": 8,
+        "severe": 15,
+        "hp": 5,
+        "stress": 3,
+        "atk": 1,
+        "weapon": "Massive Fists",
+        "range": "Melee",
+        "damage": "2d6",
+        "damage_type": "phy"
+    },
+    "experience": [
+        {
+            "name": "Sailor",
+            "value": 2
+        }
+    ],
+    "features": [
+        {
+            "name": "Swashbuckler",
+            "type": "Passive",
+            "description": "When the Tough marks 2 or fewer HP from an attack within Melee range, the attacker must mark a Stress."
+        },
+        {
+            "name": "Clear the Decks",
+            "type": "Action",
+            "description": "Make an attack against a target within Very Close range. On a success, mark a Stress to move into Melee range of the target, dealing 3d4 physical damage and knocking the target back to Close range."
+        }
+    ]
+}

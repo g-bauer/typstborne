@@ -1,1 +1,32 @@
-{"name": "SKELETON WARRIOR", "tier": 1, "type": "standard", "description": "A dirt-covered skeleton armed with a rusted blade.", "motives_and_tactics": "Feign death, gang up, steal skin", "statistics": {"difficulty": 10, "major": 4, "severe": 8, "hp": 3, "stress": 2, "atk": 0, "weapon": "Sword", "range": "Melee", "damage": "1d6+2", "damage_type": "phy"}, "experience": [], "features": [{"name": "Only Bones", "type": "Passive", "description": "The Warrior is resistant to physical damage."}, {"name": "Reform", "type": "Reaction", "description": "When the Warrior is defeated, roll a d6. On a result of 6, if there are other adversaries on the battlefield, the Warrior re-forms with no marked HP."}]}
+{
+    "name": "SKELETON WARRIOR",
+    "tier": 1,
+    "type": "standard",
+    "description": "A dirt-covered skeleton armed with a rusted blade.",
+    "motives_and_tactics": "Feign death, gang up, steal skin",
+    "statistics": {
+        "difficulty": 10,
+        "major": 4,
+        "severe": 8,
+        "hp": 3,
+        "stress": 2,
+        "atk": 0,
+        "weapon": "Sword",
+        "range": "Melee",
+        "damage": "1d6+2",
+        "damage_type": "phy"
+    },
+    "experience": [],
+    "features": [
+        {
+            "name": "Only Bones",
+            "type": "Passive",
+            "description": "The Warrior is resistant to physical damage."
+        },
+        {
+            "name": "Reform",
+            "type": "Reaction",
+            "description": "When the Warrior is defeated, roll a d6. On a result of 6, if there are other adversaries on the battlefield, the Warrior re-forms with no marked HP."
+        }
+    ]
+}

@@ -1,1 +1,42 @@
-{"name": "PETTY NOBLE", "tier": 1, "type": "social", "description": "A richly dressed and adorned aristocrat brimming with hubris.", "motives_and_tactics": "Abuse power, gather resources, mobilize minions", "statistics": {"difficulty": 14, "major": 6, "severe": 10, "hp": 3, "stress": 5, "atk": -3, "weapon": "Rapier", "range": "Melee", "damage": "1d6+1", "damage_type": "phy"}, "experience": [{"name": "Aristocrat", "value": 3}], "features": [{"name": "My Land, My Rules", "type": "Passive", "description": "All social actions made against the Noble on their land have disadvantage."}, {"name": "Guards, Seize Them!", "type": "Action", "description": "Once per scene, mark a Stress to summon 1d4 Bladed Guards, who appear at Far range to enforce the Noble\u2019s will."}, {"name": "Exile", "type": "Action", "description": "Spend a Fear and target a PC. The Noble proclaims that the target and their allies are exiled from the noble\u2019s territory. While exiled, the target and their allies have disadvantage during social situations within the Noble\u2019s domain."}]}
+{
+    "name": "PETTY NOBLE",
+    "tier": 1,
+    "type": "social",
+    "description": "A richly dressed and adorned aristocrat brimming with hubris.",
+    "motives_and_tactics": "Abuse power, gather resources, mobilize minions",
+    "statistics": {
+        "difficulty": 14,
+        "major": 6,
+        "severe": 10,
+        "hp": 3,
+        "stress": 5,
+        "atk": -3,
+        "weapon": "Rapier",
+        "range": "Melee",
+        "damage": "1d6+1",
+        "damage_type": "phy"
+    },
+    "experience": [
+        {
+            "name": "Aristocrat",
+            "value": 3
+        }
+    ],
+    "features": [
+        {
+            "name": "My Land, My Rules",
+            "type": "Passive",
+            "description": "All social actions made against the Noble on their land have disadvantage."
+        },
+        {
+            "name": "Guards, Seize Them!",
+            "type": "Action",
+            "description": "Once per scene, mark a Stress to summon 1d4 Bladed Guards, who appear at Far range to enforce the Noble\u2019s will."
+        },
+        {
+            "name": "Exile",
+            "type": "Action",
+            "description": "Spend a Fear and target a PC. The Noble proclaims that the target and their allies are exiled from the noble\u2019s territory. While exiled, the target and their allies have disadvantage during social situations within the Noble\u2019s domain."
+        }
+    ]
+}

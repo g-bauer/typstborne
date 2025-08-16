@@ -1,1 +1,32 @@
-{"name": "MINOR TREANT", "tier": 1, "type": "minion", "description": "An ambulatory sapling rising up to defend their forest.", "motives_and_tactics": "Crush, overwhelm, protect", "statistics": {"difficulty": 10, "major": null, "severe": null, "hp": 1, "stress": 1, "atk": -2, "weapon": "Cleaved Branch", "range": "Melee", "damage": "4", "damage_type": "phy"}, "experience": [], "features": [{"name": "Minion (5)", "type": "Passive", "description": "The Treant is defeated when they take any damage. For every 5 damage a PC deals to the Treant, defeat an additional Minion within range the attack would succeed against."}, {"name": "Group Attack", "type": "Action", "description": "Spend a Fear to choose a target and spotlight all Minor Treants within Close range of them. Those Minions move into Melee range of the target and make one shared attack roll. On a success, they deal 4 physical damage each. Combine this damage."}]}
+{
+    "name": "MINOR TREANT",
+    "tier": 1,
+    "type": "minion",
+    "description": "An ambulatory sapling rising up to defend their forest.",
+    "motives_and_tactics": "Crush, overwhelm, protect",
+    "statistics": {
+        "difficulty": 10,
+        "major": null,
+        "severe": null,
+        "hp": 1,
+        "stress": 1,
+        "atk": -2,
+        "weapon": "Cleaved Branch",
+        "range": "Melee",
+        "damage": "4",
+        "damage_type": "phy"
+    },
+    "experience": [],
+    "features": [
+        {
+            "name": "Minion (5)",
+            "type": "Passive",
+            "description": "The Treant is defeated when they take any damage. For every 5 damage a PC deals to the Treant, defeat an additional Minion within range the attack would succeed against."
+        },
+        {
+            "name": "Group Attack",
+            "type": "Action",
+            "description": "Spend a Fear to choose a target and spotlight all Minor Treants within Close range of them. Those Minions move into Melee range of the target and make one shared attack roll. On a success, they deal 4 physical damage each. Combine this damage."
+        }
+    ]
+}

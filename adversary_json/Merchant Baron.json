@@ -1,1 +1,41 @@
-{"name": "MERCHANT BARON", "tier": 2, "type": "social", "description": "An accomplished merchant with a large operation under their command.", "motives_and_tactics": "Abusive power, gather resources, mobilize minions", "statistics": {"difficulty": 15, "major": 9, "severe": 19, "hp": 5, "stress": 3, "atk": 2, "weapon": "Rapier", "range": "Melee", "damage": "1d6+2", "damage_type": "phy"}, "experience": [{"name": "Nobility", "value": 2}, {"name": "Trade", "value": 2}], "features": [{"name": "Everyone Has a Price", "type": "Action", "description": "Spend a Fear to offer a target a dangerous bargain for something they want or need. If used on a PC, they must make a Presence Reaction Roll (17). On a failure, they must mark 2 Stress or take the deal."}, {"name": "The Best Muscle Money Can Buy", "type": "Action", "description": "Once per scene, mark a Stress to summon 1d4+1 Tier 1 adversaries, who appear at Far range, to enforce the Baron\u2019s will."}]}
+{
+    "name": "MERCHANT BARON",
+    "tier": 2,
+    "type": "social",
+    "description": "An accomplished merchant with a large operation under their command.",
+    "motives_and_tactics": "Abusive power, gather resources, mobilize minions",
+    "statistics": {
+        "difficulty": 15,
+        "major": 9,
+        "severe": 19,
+        "hp": 5,
+        "stress": 3,
+        "atk": 2,
+        "weapon": "Rapier",
+        "range": "Melee",
+        "damage": "1d6+2",
+        "damage_type": "phy"
+    },
+    "experience": [
+        {
+            "name": "Nobility",
+            "value": 2
+        },
+        {
+            "name": "Trade",
+            "value": 2
+        }
+    ],
+    "features": [
+        {
+            "name": "Everyone Has a Price",
+            "type": "Action",
+            "description": "Spend a Fear to offer a target a dangerous bargain for something they want or need. If used on a PC, they must make a Presence Reaction Roll (17). On a failure, they must mark 2 Stress or take the deal."
+        },
+        {
+            "name": "The Best Muscle Money Can Buy",
+            "type": "Action",
+            "description": "Once per scene, mark a Stress to summon 1d4+1 Tier 1 adversaries, who appear at Far range, to enforce the Baron\u2019s will."
+        }
+    ]
+}

@@ -1,1 +1,32 @@
-{"name": "ZOMBIE PACK", "tier": 1, "type": "horde (2/hp)", "description": "A group of shambling corpses instinctively moving together.", "motives_and_tactics": "Consume flesh, hunger, maul", "statistics": {"difficulty": 8, "major": 6, "severe": 12, "hp": 6, "stress": 3, "atk": -1, "weapon": "Bite", "range": "Melee", "damage": "1d10+2", "damage_type": "phy"}, "experience": [], "features": [{"name": "Horde (1d4+2)", "type": "Passive", "description": "When the Zombies have marked half or more of their HP, their standard attack deals 1d4+2 physical damage instead."}, {"name": "Overwhelm", "type": "Reaction", "description": "When the Zombies mark HP from an attack within Melee range, you can mark a Stress to make a standard attack against the attacker."}]}
+{
+    "name": "ZOMBIE PACK",
+    "tier": 1,
+    "type": "horde (2/hp)",
+    "description": "A group of shambling corpses instinctively moving together.",
+    "motives_and_tactics": "Consume flesh, hunger, maul",
+    "statistics": {
+        "difficulty": 8,
+        "major": 6,
+        "severe": 12,
+        "hp": 6,
+        "stress": 3,
+        "atk": -1,
+        "weapon": "Bite",
+        "range": "Melee",
+        "damage": "1d10+2",
+        "damage_type": "phy"
+    },
+    "experience": [],
+    "features": [
+        {
+            "name": "Horde (1d4+2)",
+            "type": "Passive",
+            "description": "When the Zombies have marked half or more of their HP, their standard attack deals 1d4+2 physical damage instead."
+        },
+        {
+            "name": "Overwhelm",
+            "type": "Reaction",
+            "description": "When the Zombies mark HP from an attack within Melee range, you can mark a Stress to make a standard attack against the attacker."
+        }
+    ]
+}

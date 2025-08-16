@@ -1,1 +1,37 @@
-{"name": "JAGGED KNIFE LACKEY", "tier": 1, "type": "minion", "description": "A thief with simple clothes and small daggers, eager to prove themselves.", "motives_and_tactics": "Escape, profit, throw smoke", "statistics": {"difficulty": 9, "major": null, "severe": null, "hp": 1, "stress": 1, "atk": -2, "weapon": "Daggers", "range": "Melee", "damage": "2", "damage_type": "phy"}, "experience": [{"name": "Thief", "value": 2}], "features": [{"name": "Minion (3)", "type": "Passive", "description": "The Lackey is defeated when they take any damage. For every 3 damage a PC deals to the Lackey, defeat an additional Minion within range the attack would succeed against."}, {"name": "Group Attack", "type": "Action", "description": "Spend a Fear to choose a target and spotlight all Jagged Knife Lackeys within Close range of them. Those Minions move into Melee range of the target and make one shared attack roll. On a success, they deal 2 physical damage each. Combine this damage."}]}
+{
+    "name": "JAGGED KNIFE LACKEY",
+    "tier": 1,
+    "type": "minion",
+    "description": "A thief with simple clothes and small daggers, eager to prove themselves.",
+    "motives_and_tactics": "Escape, profit, throw smoke",
+    "statistics": {
+        "difficulty": 9,
+        "major": null,
+        "severe": null,
+        "hp": 1,
+        "stress": 1,
+        "atk": -2,
+        "weapon": "Daggers",
+        "range": "Melee",
+        "damage": "2",
+        "damage_type": "phy"
+    },
+    "experience": [
+        {
+            "name": "Thief",
+            "value": 2
+        }
+    ],
+    "features": [
+        {
+            "name": "Minion (3)",
+            "type": "Passive",
+            "description": "The Lackey is defeated when they take any damage. For every 3 damage a PC deals to the Lackey, defeat an additional Minion within range the attack would succeed against."
+        },
+        {
+            "name": "Group Attack",
+            "type": "Action",
+            "description": "Spend a Fear to choose a target and spotlight all Jagged Knife Lackeys within Close range of them. Those Minions move into Melee range of the target and make one shared attack roll. On a success, they deal 2 physical damage each. Combine this damage."
+        }
+    ]
+}
